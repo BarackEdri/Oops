@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="23C71" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="AccidentTable" representedClassName="AccidentTable" syncable="YES" codeGenerationType="class">
+        <attribute name="addres" optional="YES" attributeType="String"/>
+        <attribute name="car_color" optional="YES" attributeType="String"/>
+        <attribute name="car_num" optional="YES" attributeType="String"/>
+        <attribute name="car_type" optional="YES" attributeType="String"/>
+        <attribute name="driver_id" optional="YES" attributeType="String"/>
+        <attribute name="image1" optional="YES" attributeType="Binary"/>
+        <attribute name="image2" optional="YES" attributeType="Binary"/>
+        <attribute name="image3" optional="YES" attributeType="Binary"/>
+        <attribute name="image4" optional="YES" attributeType="Binary"/>
+        <attribute name="image5" optional="YES" attributeType="Binary"/>
+        <attribute name="image6" optional="YES" attributeType="Binary"/>
+        <attribute name="image7" optional="YES" attributeType="Binary"/>
+        <attribute name="image8" optional="YES" attributeType="Binary"/>
+        <attribute name="image9" optional="YES" attributeType="Binary"/>
+        <attribute name="image10" optional="YES" attributeType="Binary"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="ordinal_num" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String"/>
+        <attribute name="policy_num" optional="YES" attributeType="String"/>
+        <attribute name="sure_agent" optional="YES" attributeType="String"/>
+        <attribute name="sure_company" optional="YES" attributeType="String"/>
+        <attribute name="sure_date" optional="YES" attributeType="String"/>
+        <attribute name="sure_name" optional="YES" attributeType="String"/>
+        <attribute name="user_id" optional="YES" attributeType="String"/>
+    </entity>
+</model>
